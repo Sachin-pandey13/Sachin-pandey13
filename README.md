@@ -18,7 +18,6 @@
 
 - 🤖 **Working on Recommendation Systems & AI integrations** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="20"/>
 
-- ⚡ **Tech Stack:** React.js • Next.js • TypeScript • Node.js • Tailwind • REST APIs • CI/CD
 ---
 
 ## 🛠️ Tech Stack
