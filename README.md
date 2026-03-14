@@ -21,7 +21,7 @@
 - ⚡ **Tech Stack:** React.js • Next.js • TypeScript • Node.js • Tailwind • REST APIs • CI/CD
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -33,6 +33,13 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![REST API](https://img.shields.io/badge/REST%20API-orange?style=for-the-badge)
+
+### Python / Data Science
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
+![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)
 
 ### DevOps
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
