@@ -8,16 +8,17 @@
 
 ## 🚀 About Me
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&width=700&lines=🎓+B.Tech+CSE+Student;💻+Full+Stack+Web+Developer;🧠+Exploring+Machine+Learning+%26+Data+Science;🤖+Working+on+Recommendation+Systems+%26+AI+Integrations;⚡+Tech+Stack:+React.js+•+Next.js+•+TypeScript+•+Node.js+•+Tailwind+•+REST+APIs+•+CI/CD"/>
-</p>
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+- 🎓 **B.Tech CSE Student** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V3d2V3ZzJxM3k5bTg2dG5jNnJqZzR3cWZubjF1bG0yZ3Z4dW9oMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="20"/>
 
-- 🎓 **B.Tech CSE Student**
-- 💻 **Full Stack Web Developer**
-- 🧠 **Exploring Machine Learning & Data Science**
-- 🤖 **Working on Recommendation Systems & AI integrations**
+- 💻 **Full Stack Web Developer** <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20"/>
+
+- 🧠 **Exploring Machine Learning & Data Science** <img src="https://media.giphy.com/media/3o7TKsQ8UQ4K4K7C1y/giphy.gif" width="20"/>
+
+- 🤖 **Working on Recommendation Systems & AI integrations** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="20"/>
+
+- ⚡ **Tech Stack:** React.js • Next.js • TypeScript • Node.js • Tailwind • REST APIs • CI/CD
 ---
 
 # 🛠 Tech Stack
