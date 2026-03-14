@@ -8,12 +8,13 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student  
-- 💻 Full Stack Web Developer  
-- 🧠 Exploring Machine Learning & Data Science  
-- 🤖 Working on Recommendation Systems & AI integrations  
-- ⚡ Tech Stack: React.js • Next.js • TypeScript • Node.js • Tailwind • REST APIs • CI/CD  
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+- 🎓 **B.Tech CSE Student**
+- 💻 **Full Stack Web Developer**
+- 🧠 Exploring **Machine Learning & Data Science**
+- 🤖 Working on **Recommendation Systems & AI integrations**
+- ⚡ Tech Stack: **React.js • Next.js • TypeScript • Node.js • Tailwind • REST APIs • CI/CD**
 ---
 
 # 🛠 Tech Stack
