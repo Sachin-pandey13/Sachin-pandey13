@@ -135,9 +135,9 @@ System Design         █████████████░░░░░░�
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin-pandey13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6d28d9&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sachin-pandey13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6d28d9&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-pandey13&layout=compact&theme=tokyonight&border_color=6d28d9&title_color=00F7FF" alt="Top Langs"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sachin-pandey13&layout=compact&theme=tokyonight&border_color=6d28d9&title_color=00F7FF" alt="Top Langs"/>
 </div>
 
 <br/>
