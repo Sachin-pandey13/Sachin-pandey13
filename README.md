@@ -10,13 +10,13 @@
 <!-- ░░░░░░░░░  GREETING + ANIME COMPANIONS  ░░░░░░░░░ -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" height="100" alt="Luffy"/>
+<img src="https://raw.githubusercontent.com/Sachin-pandey13/Sachin-pandey13/main/assets/luffy.gif" height="120" alt="Monkey D. Luffy — Gear 5"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Hi+👋+I'm+Sachin+Kumar!;Full+Stack+Developer;AI+%2F+ML+Explorer;Creator+of+Melopra;Building+what+doesn't+exist+yet...)](https://git.io/typing-svg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/VdJJWNRu1kkiM/giphy.gif" height="100" alt="Zoro"/>
+<img src="https://raw.githubusercontent.com/Sachin-pandey13/Sachin-pandey13/main/assets/zoro.gif" height="120" alt="Roronoa Zoro"/>
 
 </div>
 
