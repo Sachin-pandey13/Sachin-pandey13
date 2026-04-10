@@ -9,12 +9,13 @@
 
 <!-- ░░░░░░░░░  GREETING + ANIME COMPANIONS  ░░░░░░░░░ -->
 <div align="center">
-  <a href="https://github.com/Sachin-pandey13">
-    <img align="left" src="https://media.giphy.com/media/1wqqlaQ7IX3TXibXZE/giphy.gif" height="120" alt="Monkey D. Luffy"/>
-  </a>
-  <br/>
+  <h2>
+    <b>Hi there, I'm Sachin Kumar</b>
+    <img src="https://raw.githubusercontent.com/Sachin-pandey13/Sachin-pandey13/main/assets/luffy.gif" width="70" alt="Luffy"/>
+  </h2>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Hi+I+am+Sachin+Kumar;Full+Stack+Developer;AI+and+ML+Explorer;Creator+of+Melopra;Building+what+does+not+exist!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Full+Stack+Developer;AI+and+ML+Explorer;Creator+of+Melopra;Building+what+does+not+exist!" alt="Typing SVG" />
   </a>
 </div>
 
