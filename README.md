@@ -171,7 +171,7 @@ System Design         █████████████░░░░░░�
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sachin-pandey13&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=Sachin-pandey13&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophies"/>
 </div>
 
 <br/>
@@ -213,9 +213,9 @@ System Design         █████████████░░░░░░�
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sachin-pandey13/Sachin-pandey13/blob/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sachin-pandey13/Sachin-pandey13/blob/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://github.com/Sachin-pandey13/Sachin-pandey13/blob/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin-pandey13/Sachin-pandey13/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin-pandey13/Sachin-pandey13/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Sachin-pandey13/Sachin-pandey13/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
