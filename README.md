@@ -8,18 +8,15 @@
 <br/>
 
 <!-- ░░░░░░░░░  GREETING + ANIME COMPANIONS  ░░░░░░░░░ -->
-<table style="border: none; border-collapse: collapse; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" valign="middle" style="border: none; background-color: transparent;">
-      <img src="https://media1.tenor.com/m/gKrTnnGi5LgAAAAC/luffy-mugen.gif" height="120" alt="Monkey D. Luffy"/>
-    </td>
-    <td align="center" valign="middle" style="border: none; background-color: transparent;">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Hi+👋+I'm+Sachin+Kumar!;Full+Stack+Developer;AI+%2F+ML+Explorer;Creator+of+Melopra;Building+what+doesn't+exist+yet..." alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Sachin-pandey13">
+    <img align="left" src="https://media.giphy.com/media/1wqqlaQ7IX3TXibXZE/giphy.gif" height="120" alt="Monkey D. Luffy"/>
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Hi+I+am+Sachin+Kumar;Full+Stack+Developer;AI+and+ML+Explorer;Creator+of+Melopra;Building+what+does+not+exist!" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
