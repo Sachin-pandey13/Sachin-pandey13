@@ -257,9 +257,10 @@ An ongoing project exploring portable AI agents and local-first intelligence.
 ---
 
 
+
 <!-- GITHUB ANALYTICS -->
 
-<h2 align="center">📊 My Voyage in GitHub</h2>
+<h2 align="center">📊 My GitHub Analytics</h2>
 
 <div align="center">
 
@@ -276,10 +277,13 @@ An ongoing project exploring portable AI agents and local-first intelligence.
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin-pandey13&bg_color=0B0E14&color=42C8E8&line=7185FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph"/>
+<!-- GitHub Contribution Summary -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin-pandey13&theme=github_dark" alt="GitHub Contribution Summary"/>
 
 </div>
+
+---
+
 
 ---
 
