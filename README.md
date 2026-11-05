@@ -256,25 +256,33 @@ An ongoing project exploring portable AI agents and local-first intelligence.
 
 ---
 
+
 <!-- GITHUB ANALYTICS -->
 
 <h2 align="center">📊 My Voyage in GitHub</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sachin-pandey13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=42C8E8&icon_color=7185FF&text_color=FFFFFF"/>
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sachin-pandey13&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=42C8E8&icon_color=7185FF&text_color=FFFFFF" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-pandey13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=42C8E8&text_color=FFFFFF"/>
-
-<br/><br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-pandey13&theme=tokyonight&hide_border=true&background=0B0E14&ring=7185FF&fire=42C8E8&currStreakLabel=42C8E8"/>
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sachin-pandey13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=42C8E8&text_color=FFFFFF" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin-pandey13&bg_color=0B0E14&color=42C8E8&line=7185FF&point=FFFFFF&area=true&hide_border=true"/>
+<!-- GitHub Streak -->
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-pandey13&theme=tokyonight&hide_border=true&background=0B0E14&ring=7185FF&fire=42C8E8&currStreakLabel=42C8E8" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin-pandey13&bg_color=0B0E14&color=42C8E8&line=7185FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph"/>
 
 </div>
+
+---
+
 
 ---
 
