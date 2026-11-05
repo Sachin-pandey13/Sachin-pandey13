@@ -5,29 +5,19 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,40:141A24,100:312E81&height=260&section=header&text=SACHIN%20KUMAR&fontSize=75&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ENGINEERING%20INTELLIGENCE%20%7C%20EXPLORING%20THE%20GRAND%20LINE&descSize=14&descAlignY=60&descColor=42C8E8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,50:141A24,100:312E81&height=220&section=header&text=SACHIN%20KUMAR&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=17&descAlignY=60&descColor=42C8E8"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Sachin-pandey13/Sachin-pandey13/main/assets/luffy.gif" width="100" alt="Straw Hat companion"/>
+### Building Intelligent Applications Through AI & Engineering
 
-# ⚓ Welcome to My Grand Line
-
-### Hi, I'm Sachin Kumar.
-
-<a href="https://readme-typing-svg.herokuapp.com">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=42C8E8&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+the+Making;Building+Intelligent+Applications;Exploring+LLMs+%26+Semantic+Search;Turning+Ideas+Into+Working+Systems;Always+Learning.+Always+Building." />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=42C8E8&center=true&vCenter=true&width=600&lines=Exploring+Generative+AI;Building+Semantic+Search+Systems;Developing+LLM-Powered+Applications;Turning+Ideas+Into+Production-Ready+Systems"/>
 
 <br/>
 
-*Every great journey begins with curiosity.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0B0E14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin-pandey13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141A24?style=for-the-badge&logo=linkedin&logoColor=42C8E8)](https://www.linkedin.com/in/sachinpandey13/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-141A24?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sachinpandey_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=42C8E8)](https://www.linkedin.com/in/sachinpandey13/)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0E14?style=for-the-badge&logo=github)](https://github.com/Sachin-pandey13)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0B0E14?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sachinpandey_/)
 
 </div>
 
