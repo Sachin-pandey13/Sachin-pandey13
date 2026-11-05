@@ -9,6 +9,8 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Sachin-pandey13/Sachin-pandey13/main/assets/luffy.gif" width="105" alt="Luffy"/>
+
 ### Building Intelligent Applications Through AI & Engineering
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=42C8E8&center=true&vCenter=true&width=600&lines=Exploring+Generative+AI;Building+Semantic+Search+Systems;Developing+LLM-Powered+Applications;Turning+Ideas+Into+Production-Ready+Systems"/>
